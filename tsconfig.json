@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "extends": "expo/tsconfig.base",
+  "projectConfig": {
+    "apiKey": "427c1037605b48bcb1750efc4703505c"
+  }
+}
